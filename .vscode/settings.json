@@ -1,7 +1,0 @@
-{
-    "files.autoSave": "onFocusChange",
-    "editor.fontFamily": "'Dank Mono', Menlo, Monaco, 'Courier New', monospace",
-    "editor.formatOnSave": true,
-    "editor.formatOnPaste": true,
-    "editor.formatOnSaveMode": "modifications"
-}
